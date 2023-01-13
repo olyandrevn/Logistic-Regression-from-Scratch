@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Logistic Regression from Scratch/*
+!/Logistic Regression from Scratch/task/
+/Logistic Regression from Scratch/task/*
+!/Logistic Regression from Scratch/task/logistic.py
+!/Logistic Regression from Scratch/task/build.gradle
+!/Logistic Regression from Scratch/task/build.gradle.kts
